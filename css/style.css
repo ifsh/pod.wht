@@ -442,41 +442,35 @@ article .entry hr {
 article .entry .text-lt {
   text-decoration: line-through;
 }
-article footer {
-  font-size: 0.875em;
-  border-top: 1px solid #aaa;
-  padding: 10px 0 0 0;
-  margin-top: 10px;
-}
-article footer.end-sep {
+article .entry.end-sep {
   border-top: none;
   border-bottom: 1px solid #aaa;
   padding: 0 0 10px 0;
 }
-article footer a:before {
+article .entry a:before {
   font: 1.1em FontAwesome;
   padding-right: 10px;
   vertical-align: middle;
 }
-article footer a.more-link:before {
+article .entry a.more-link:before {
   content: '\f054';
 }
-article footer a.comment-link:before {
+article .entry a.comment-link:before {
   content: '\f075';
 }
-article footer .categories,
-article footer .tags {
+article .entry .categories,
+article .entry .tags {
   margin: 5px 0;
 }
-article footer .categories:before,
-article footer .tags:before {
+article .entry .categories:before,
+article .entry .tags:before {
   font: 1.1em FontAwesome;
   margin-right: 5px;
 }
-article footer .categories:before {
+article .entry .categories:before {
   content: '\f07b';
 }
-article footer .tags:before {
+article .entry .tags:before {
   content: '\f02b';
 }
 #comment {
