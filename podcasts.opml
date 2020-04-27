@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline text="耳旁风" type="rss" xmlUrl="https://epf.xyz/episodes/feed.xml" />
+			<outline xmlUrl="https://anchor.fm/s/1b718ca0/podcast/rss" text="不动声色" type="rss" />
+			<outline xmlUrl="https://raw.githubusercontent.com/Reyshawn/FanpieFilmFeed/master/fanPieFilm.rss" type="rss" text="反派影评" />
+		</outline>
+	</body>
+</opml>
