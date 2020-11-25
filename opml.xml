@@ -6,14 +6,12 @@
     <description>发现与推荐高质量的华语播客</description>
   </head>
   <body>
-    
     <outline text="feeds">
+      
       <outline type="rss" text="闭门造车" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" />
-    </outline>
-    
-    <outline text="feeds">
+      
       <outline type="rss" text="科技島讀" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss" />
+      
     </outline>
-    
   <//body>
 </opml>
