@@ -60,7 +60,7 @@
       
       <outline type="rss" text="随机波动" xmlUrl="https://feeds.fireside.fm/stovol/rss" />
       
-      <outline type="rss" text="剩余价值SurplusValue (停播)" xmlUrl="https://feeds.fireside.fm/surplusvalue/rss" />
+      <outline type="rss" text="剩余价值SurplusValue" xmlUrl="https://feeds.fireside.fm/surplusvalue/rss" />
       
       <outline type="rss" text="字谈字畅" xmlUrl="https://www.thetype.com/typechat/feed" />
       
@@ -90,7 +90,7 @@
       
       <outline type="rss" text="路书" xmlUrl="https://lushu88.com/rss" />
       
-      <outline type="rss" text="IT 公论（已完结）" xmlUrl="https://itgonglun.com/episodes/feed.xml" />
+      <outline type="rss" text="IT 公论" xmlUrl="https://itgonglun.com/episodes/feed.xml" />
       
       <outline type="rss" text="Byte.Coffee" xmlUrl="https://feeds.fireside.fm/bytecoffee/rss" />
       
