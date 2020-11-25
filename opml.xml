@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <opml version="2.0">
-  <head>
+  <channel>
     <title>播客 × 万花筒</title>
-    <link>https://pod.wht.one/</link>
+    <link>https://pod.wht.one</link>
     <description>发现与推荐高质量的华语播客</description>
-  </head>
-  <body>
-    <outline text="feeds">
-      <outline type="rss" text="" xmlUrl="" />
-    </outline>
-  </body>
-</opml>
+    
+    <item>
+      <title>科技島讀</title>
+      <description><![CDATA[<p>科技島讀是會員制媒體，專注於分析國際事件，解讀科技、商業與社會趨勢。我們從台灣出發，因此取名「島」讀。</p>
+<h2 id="节目信息"><a href="#节目信息" class="headerlink" title="节目信息"></a>节目信息</h2><ul>
+<li>主播：周欽華</li>
+<li>官网：<a href="https://daodu.tech" target="_blank" rel="noopener">https://daodu.tech</a></li>
+<li>RSS Feed: <a href="https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss" target="_blank" rel="noopener">https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss</a></li>
+</ul>
+<h2 id="单集推荐"><a href="#单集推荐" class="headerlink" title="单集推荐"></a>单集推荐</h2>]]></description>
+      <itunes:author>zh.fyi</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://bds.wht.one"/>
+      <enclosure url="" length="" type=""/>
+      <guid>https://pod.wht.one/post/26539/</guid>
+      <pubDate>Mon, 27 Apr 2020 13:20:59 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="https://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
