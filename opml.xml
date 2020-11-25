@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <opml version="2.0">
-  <channel>
+  <head>
     <title>播客 × 万花筒</title>
     <link>https://pod.wht.one</link>
     <description>发现与推荐高质量的华语播客</description>
+  </head>
+  <body>
     
-    <item>
+    <outline text="feeds">
       <outline type="rss" text="闭门造车" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" />
-    </item>
+    </outline>
     
-    <item>
+    <outline text="feeds">
       <outline type="rss" text="科技島讀" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss" />
-    </item>
+    </outline>
     
-  </channel>
-</rss>
+  <//body>
+</opml>
