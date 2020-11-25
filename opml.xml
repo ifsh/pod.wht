@@ -6,6 +6,21 @@
     <description>发现与推荐高质量的华语播客</description>
     
     <item>
+      <outline type="rss" text="闭门造车" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" />
+      <itunes:author>zh.fyi</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://bds.wht.one"/>
+      <enclosure url="" length="" type=""/>
+      <guid>https://pod.wht.one/post/36049/</guid>
+      <pubDate>Mon, 26 Oct 2020 13:16:40 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="https://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
       <outline type="rss" text="科技島讀" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss" />
       <itunes:author>zh.fyi</itunes:author>
       <itunes:subtitle></itunes:subtitle>
