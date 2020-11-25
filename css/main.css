@@ -525,9 +525,9 @@ h5, h6          { font-weight: bolder }
     font-family: arial, "raleway-regular";
     font-size: 15px;
     line-height: 22px;
-    padding: 60px 30px;
+    padding: 40px 15px 2px 15px;
     background: #fff;
-    margin-bottom: 70px;
+    margin-bottom: 10px;
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
