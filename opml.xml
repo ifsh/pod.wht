@@ -8,7 +8,7 @@
 		<outline text="feeds">
 			<outline type="rss" text="海螺电台 | The Spiral" xmlUrl="http://thespiral.fm/episodes/feed.xml" />
 			<outline type="rss" text="耳旁风" xmlUrl="https://epf.xyz/episodes/feed.xml" />
-			<outline xmlUrl="https://anchor.fm/s/1b718ca0/podcast/rss" text="不动声色" type="rss" />
+			<outline xmlUrl="https://bds.wht.one/feed.xml" text="不动声色" type="rss" />
 			<outline type="rss" text="Anyway.FM 设计杂谈" xmlUrl="https://Anyway.FM/rss.xml" />
 			<outline text="馬力歐陪你喝一杯" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:274649365/sounds.rss" type="rss" />
 			<outline type="rss" xmlUrl="https://bitvoice.banlan.show/episodes/feed.xml" text="比特新声" />
