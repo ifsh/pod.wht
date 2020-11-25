@@ -7,17 +7,6 @@
     
     <item>
       <outline type="rss" text="科技島讀" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss" />
-      <itunes:author>zh.fyi</itunes:author>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary></itunes:summary>
-      <itunes:image href="https://bds.wht.one"/>
-      <enclosure url="" length="" type=""/>
-      <guid>https://pod.wht.one/post/26539/</guid>
-      <pubDate>Mon, 27 Apr 2020 13:20:59 GMT</pubDate>
-      <itunes:duration></itunes:duration>
-      <psc:chapters version="1.2" xmlns:psc="https://podlove.org/simple-chapters">
-        
-      </psc:chapters>
     </item>
     
   </channel>
