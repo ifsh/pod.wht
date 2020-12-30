@@ -8,7 +8,21 @@
   <body>
     <outline text="feeds">
       
+      <outline type="rss" text="美轮美换" xmlUrl="https://lunhuan.fm/episodes/feed.xml" />
+      
+      <outline type="rss" text="海马星球" xmlUrl="https://anchor.fm/s/47795d0/podcast/rss" />
+      
+      <outline type="rss" text="跳岛FM" xmlUrl="http://justpodmedia.com/rss/tiaodaofm.xml" />
+      
+      <outline type="rss" text="时差 in-betweenness" xmlUrl="https://feeds.buzzsprout.com/1171871.rss" />
+      
+      <outline type="rss" text="别的电波" xmlUrl="http://rss.lizhi.fm/rss/50763402.xml" />
+      
+      <outline type="rss" text="东亚观察局" xmlUrl="https://justpodmedia.com/rss/eye-on-east-asia.xml" />
+      
       <outline type="rss" text="闭门造车" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" />
+      
+      <outline type="rss" text="感官一條通" xmlUrl="https://rss.soundon.fm/rss/tracks/7407e3d0-4af7-404e-8b92-d54ce9b38e67/feed.xml" />
       
       <outline type="rss" text="设计药电" xmlUrl="https://feeds.fireside.fm/shejiyaodian/rss" />
       
