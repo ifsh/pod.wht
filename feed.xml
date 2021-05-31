@@ -3,7 +3,7 @@
   <title>播客 × 万花筒</title>
   
   <subtitle>发现与推荐高质量的华语播客</subtitle>
-  <link href="https://pod.wht.one/feed.xml" rel="self"/>
+  <link href="/feed.xml" rel="self"/>
   
   <link href="https://pod.wht.one/"/>
   <updated>2020-12-30T06:29:52.792Z</updated>
